@@ -1,0 +1,16 @@
+[package]
+name = "ids_ransomware_project"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pnet = "0.28.0"    # For packet capture
+notify = "6.1.1"   # For file system monitoring
+tauri = "2.0.0"    # For GUI (optional, for later phases)
+log = "0.4"       # For logging
+simplelog = "0.12" # For easier logging setup
+eframe = "0.24.1"
+egui = "0.24.1"
+chrono = { version = "0.4", features = ["serde"] }
+crossbeam-channel = "0.5"
+once_cell = "1.18"  # Add this for thread-safe static initialization
