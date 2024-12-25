@@ -60,14 +60,6 @@ The project uses the following Rust crates:
 3. **Inspect network packets:**
    Switch to the "Network Inspector" tab to view detailed information about captured packets.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit pull requests for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [pnet](https://github.com/libpnet/libpnet) for packet capture
