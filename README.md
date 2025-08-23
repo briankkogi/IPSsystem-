@@ -1,4 +1,4 @@
-# IDS Ransomware Project
+# IDS Project
 
 This project is an Intrusion Detection System (IDS) designed to monitor network traffic and detect potential ransomware attacks. It captures network packets, analyzes them, and provides alerts for suspicious activities.
 
